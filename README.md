@@ -13,3 +13,5 @@ After cleaning, TUMCC contains 3,863 sentences (a total of 100,000 characters) f
 ``TUMCC-clean.txt`` contains corpus after our cleaning. You can use it directly in your research.
 
 ``TUMCC-raw.7z`` contains raw infomation we collected from Telegram. You can do text cleaning by yourself to get more vaild data.
+
+We will give more details about the target Telegram groups for data extracting once the corresponding paper is published.
