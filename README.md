@@ -1,6 +1,6 @@
 # TUMCC (Telegram Underground Market Chinese Corpus)
 
- TUMCC is the first Chinese corpus in jargons identification field. 
+TUMCC is the first Chinese corpus in jargons identification field. 
 
 A total of **28,749** sentences, including **804,971** characters, from **19,821** Telegram users were collected when we are building the TUMCC.
 
@@ -14,4 +14,6 @@ After cleaning, TUMCC contains 3,863 sentences (a total of 100,000 characters) f
 
 ``TUMCC-raw.7z`` contains raw infomation we collected from Telegram. You can do text cleaning by yourself to get more vaild data.
 
-We will give more details about the target Telegram groups for data extracting once the corresponding paper is published.
+For more details about the target Telegram groups for data extracting, please refer to the paper [`A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets`](https://ieeexplore.ieee.org/abstract/document/9522221) and `Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features` (Under Review).
+
+Please cite us if you use the dataset.
