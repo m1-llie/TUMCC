@@ -14,6 +14,6 @@ After cleaning, TUMCC contains 3,863 sentences (a total of 100,000 characters) f
 
 ``TUMCC-raw.7z`` contains raw infomation we collected from Telegram. You can do text cleaning by yourself to get more vaild data.
 
-For more details about the target Telegram groups for data extracting, please refer to the paper [`A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets`](https://ieeexplore.ieee.org/abstract/document/9522221) and `Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features` (Under Review).
+For more details about the target Telegram groups for data extracting, please refer to the paper [`Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features`](https://doi.org/10.1016/j.ipm.2022.103033) (IP&M, 2022).
 
 Please cite us if you use the dataset.
