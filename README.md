@@ -2,7 +2,7 @@
 
 TUMCC is the first Chinese corpus in jargons identification field. 
 
-A total of **28,749** sentences, including **804,971** characters, from **19,821** Telegram users were collected when we are building the TUMCC.
+A total of **28,749** sentences, including **804,971** characters, from **19,821** Telegram users of **12** Telegram groups were collected when we are building the TUMCC.
 
 We finished data screening and word segementation before we release this corpus. Thus it might be convenient for you to use.
 
