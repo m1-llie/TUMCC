@@ -8,7 +8,7 @@ We had finished data screening and word segmentation before we released this cor
 
 After cleaning, TUMCC contains 3,863 sentences (100,000 characters) from 3,139 Telegram users.
 
-# Files
+## Files
 
 ``TUMCC-clean.txt`` contains the corpus after our cleaning. You can use it directly in your research.
 
@@ -16,8 +16,8 @@ After cleaning, TUMCC contains 3,863 sentences (100,000 characters) from 3,139 T
 
 For more details about the target Telegram group sources for data extraction, please refer to the paper [`Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features`](https://doi.org/10.1016/j.ipm.2022.103033) ([Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management), 2022).
 
-# Citation
-Thanks for your interest in our paper, please feel free to leave a ⭐️ or cite us through:
+## Citation
+Thanks for your interest in our dataset, please feel free to leave a ⭐️ or cite us through:
 
 ```
 @article{hou2022identification,
