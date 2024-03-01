@@ -16,7 +16,8 @@ After cleaning, TUMCC contains 3,863 sentences (100,000 characters) from 3,139 T
 
 For more details about the target Telegram group sources for data extraction, please refer to the paper [`Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features`](https://doi.org/10.1016/j.ipm.2022.103033) ([Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management), 2022).
 
-Please cite us if you use the dataset for research purposes.
+# Citation
+Thanks for your interest in our paper, please feel free to leave a ⭐️ or cite us through:
 
 ```
 @article{hou2022identification,
